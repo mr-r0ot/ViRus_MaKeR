@@ -257,3 +257,4 @@ def virusmaker():
     input("\n\n\tEnter for close ")
     clear_screen()
 # ===============================================================================  
+virusmaker()
